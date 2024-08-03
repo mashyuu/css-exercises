@@ -1,0 +1,21 @@
+.odd-num {
+background-color: hsl(355, 100%, 80%);
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.pink-line {
+    font-size: 24px;
+    
+}
+
+#four {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+
+}
